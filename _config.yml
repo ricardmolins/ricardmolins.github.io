@@ -18,7 +18,7 @@ remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "So Simple Development Site"
-description: "A simple 2 Jekyll theme for words and pictures."
+description: "A simple 3 Jekyll theme for words and pictures."
 baseurl: "" # the subpath of your site, e.g. "/blog"
 url: "https://ricardmolins.github.io/"
 logo: "/images/so-simple-site-logo.png" # path of site logo, e.g. "/assets/images/logo.png"
